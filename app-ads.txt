@@ -1,5 +1,3 @@
-yandex.com, 33777372, DIRECT
-yango-ads.com, 33777372, DIRECT
 rubiconproject.com, 27969, RESELLER, 0bfd66d529a55807
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
@@ -166,6 +164,8 @@ vidoomy.com, 6858194, RESELLER
 adform.com, 2742, RESELLER
 instal.com, 5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644, RESELLER
 openx.com, 540773939, RESELLER, 6a698e2ec38604c6
+yandex.com, 33777372, DIRECT
+yango-ads.com, 33777372, DIRECT
 appnexus.com, 11236, RESELLER, f5ab79cb980f11d1
 silvermob.com, 357, RESELLER
 aceex.io, 6, RESELLER
