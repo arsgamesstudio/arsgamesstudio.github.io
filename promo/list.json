@@ -1,0 +1,10 @@
+{
+  "show": true,
+  "games": [
+    {
+      "package": "com.cube.online",
+      "label": { "en": "Cube play", "ru": "Куб играть" },
+      "picture": "ico.png"
+    }
+  ]
+}
